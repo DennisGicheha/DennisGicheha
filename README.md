@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DennisGicheha
 - 👀 I’m interested in QA Automation Frameworks
-- 🌱 I’m currently learning Karate Framework and Flutter App Testing
+- 🌱 I’m currently learning Cypress Framework, Selenium Frameworks, Karate Framework and Flutter App Testing.
 - 💞️ I’m looking to collaborate on  Testing Frameworks
 - 📫 How to reach me dennisgithua30@gmail.com
 
